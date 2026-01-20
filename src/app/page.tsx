@@ -25,7 +25,7 @@ export default function Home() {
               background: "rgba(99, 102, 241, 0.2)",
               color: "#818cf8",
               borderRadius: "999px",
-              fontSize: "0.875rem",
+              fontSize: "0.1rem",
               marginBottom: "1.5rem",
               border: "1px solid rgba(99, 102, 241, 0.3)"
             }}>
