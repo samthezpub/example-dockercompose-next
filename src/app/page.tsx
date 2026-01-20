@@ -21,7 +21,7 @@ export default function Home() {
           <div className="animate-fade-in-up">
             <span style={{
               display: "inline-block",
-              padding: "0.5rem 1rem",
+              padding: "0.5em 1em",
               background: "rgba(99, 102, 241, 0.2)",
               color: "#818cf8",
               borderRadius: "999px",
